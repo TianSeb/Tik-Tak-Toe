@@ -1,4 +1,4 @@
-import { events } from "../Controller/eventsControl.js";
+import { events } from "./eventsControl.js";
 
 const gameBoard = (function () {
     //Cache DOM
