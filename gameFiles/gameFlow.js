@@ -1,4 +1,4 @@
-import { events } from "./Controller/eventsControl.js";
+import { events } from "../Controller/eventsControl.js";
 
 const matchFlow = (function () {
     //Game Variables
